@@ -1,4 +1,4 @@
-# Da## Features
+# Data Features
 
 - 🚀 **FastAPI Backend**: High-performance async API with automatic OpenAPI documentation
 - 🤖 **AI Code Generation**: Uses Google's Gemini API to generate analysis code from natural language
